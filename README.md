@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 
   
-[![Xenawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xenawn&bg_color=70,0f4c81,ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Xenawn/Xenawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
