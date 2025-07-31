@@ -1,4 +1,4 @@
-<h3 align="center">Hi, There! 🎮</h3>
+<h3 align="center"> 🎮 Keep it simple, stupid </h3>
    <div align="center">
     
 👋 Call me "Xenawn" 
