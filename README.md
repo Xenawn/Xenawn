@@ -1,10 +1,6 @@
 <h3 align="center"> 🎮 Keep it simple, stupid </h3>
    <div align="center">
-    
-👋 Call me "Xenawn" 
-
-
-👀 I’m interested in Game Develop...
+   
 
 
 🌱 I’m currently learning C# and Unity...
