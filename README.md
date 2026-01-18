@@ -4,7 +4,7 @@
    ![header](https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=200&section=header&text=Xenawn&fontSize=80&fontColor=ffffff&animation=blink )
 
    
-🌱 I’m currently learning C# and Unity
+🌱 I’m currently learning C# and Unity!
 
 
 
